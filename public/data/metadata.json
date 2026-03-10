@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "title": "Cosmic Drift",
+        "artist": "Nova Syntax",
+        "url": "https://res.cloudinary.com/demo/video/upload/dog.mp4",
+        "duration": 150,
+        "cover_image_url": "https://images.unsplash.com/photo-1614113489855-66422ad300a4?w=400&h=400&fit=crop"
+    },
+    {
+        "id": "2",
+        "title": "Neon Horizon",
+        "artist": "Synthwave Collective",
+        "url": "https://res.cloudinary.com/demo/video/upload/cat.mp4",
+        "duration": 185,
+        "cover_image_url": "https://images.unsplash.com/photo-1557672172-298e090bd0f1?w=400&h=400&fit=crop"
+    },
+    {
+        "id": "3",
+        "title": "Deep Focus",
+        "artist": "Lo-Fi Beats",
+        "url": "https://res.cloudinary.com/demo/video/upload/dog.mp4",
+        "duration": 120,
+        "cover_image_url": "https://images.unsplash.com/photo-1518609878373-06d740f60d8b?w=400&h=400&fit=crop"
+    }
+]
