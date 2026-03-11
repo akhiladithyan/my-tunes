@@ -1,26 +1,98 @@
 [
-    {
-        "id": "1",
-        "title": "Cosmic Drift",
-        "artist": "Nova Syntax",
-        "url": "https://res.cloudinary.com/demo/video/upload/dog.mp4",
-        "duration": 150,
-        "cover_image_url": "https://images.unsplash.com/photo-1614113489855-66422ad300a4?w=400&h=400&fit=crop"
-    },
-    {
-        "id": "2",
-        "title": "Neon Horizon",
-        "artist": "Synthwave Collective",
-        "url": "https://res.cloudinary.com/demo/video/upload/cat.mp4",
-        "duration": 185,
-        "cover_image_url": "https://images.unsplash.com/photo-1557672172-298e090bd0f1?w=400&h=400&fit=crop"
-    },
-    {
-        "id": "3",
-        "title": "Deep Focus",
-        "artist": "Lo-Fi Beats",
-        "url": "https://res.cloudinary.com/demo/video/upload/dog.mp4",
-        "duration": 120,
-        "cover_image_url": "https://images.unsplash.com/photo-1518609878373-06d740f60d8b?w=400&h=400&fit=crop"
-    }
+  {
+    "id": "1",
+    "title": "Let Me Love You",
+    "artist": "DJ Snake / Justin Bieber",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773213284/my_tunes_audio/Let_me_love_you.mp3",
+    "duration": 205.94666666666666,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773213268/my_tunes_covers/ib8l7ppxeb4fcemsiban.jpg"
+  },
+  {
+    "id": "2",
+    "title": "No Money",
+    "artist": "Galantis",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773213296/my_tunes_audio/no_money.mp3",
+    "duration": 189.1265306122449,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773213286/my_tunes_covers/cuh5pfrzl4rapbiwujqg.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Warriors",
+    "artist": "Imagine Dragons",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773213306/my_tunes_audio/warriors.mp3",
+    "duration": 170.06666666666666,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773213299/my_tunes_covers/geflyy0oh60urbfuljza.jpg"
+  },
+  {
+    "id": "4",
+    "title": "Girls Like You",
+    "artist": "Maroon 5 / Cardi B",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773213314/my_tunes_audio/girls_like_you.mp3",
+    "duration": 235.5452380952381,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773213307/my_tunes_covers/q3h6hz7qtwgphyqz9gcm.jpg"
+  },
+  {
+    "id": "5",
+    "title": "Thunder",
+    "artist": "Imagine Dragons",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773213323/my_tunes_audio/thunder.mp3",
+    "duration": 187.14666666666668,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773213316/my_tunes_covers/o141fi14jd2s0bg4vjnp.jpg"
+  },
+  {
+    "id": "6",
+    "title": "Believer",
+    "artist": "Imagine Dragons",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773213330/my_tunes_audio/believer.mp3",
+    "duration": 204.34666666666666,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773213324/my_tunes_covers/mpyvivptjp5ydgn13t0f.jpg"
+  },
+  {
+    "id": "7",
+    "title": "Whatever It Takes",
+    "artist": "Imagine Dragons",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773213337/my_tunes_audio/whatever_it_takes.mp3",
+    "duration": 201.24,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773213332/my_tunes_covers/morg3nwkjgo6grypxss6.jpg"
+  },
+  {
+    "id": "8",
+    "title": "Alone",
+    "artist": "Alan Walker",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773213344/my_tunes_audio/alone.mp3",
+    "duration": 161.2,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773213339/my_tunes_covers/udk6prppfxwe4tr4rc0o.jpg"
+  },
+  {
+    "id": "9",
+    "title": "Faded",
+    "artist": "Alan Walker",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773213351/my_tunes_audio/faded.mp3",
+    "duration": 212.62666666666667,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773213346/my_tunes_covers/tvbrpdfy5g4wjohohzs0.jpg"
+  },
+  {
+    "id": "10",
+    "title": "Animals",
+    "artist": "Maroon 5",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773213359/my_tunes_audio/animals.mp3",
+    "duration": 229.13333333333333,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773213352/my_tunes_covers/hf35qg8ekehttmhuuupe.jpg"
+  },
+  {
+    "id": "11",
+    "title": "Carry On (from the Original Motion Picture \"POK\u00c9MON Detective Pikachu\")",
+    "artist": "Rita Ora / Kygo",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773213374/my_tunes_audio/carry_on.mp3",
+    "duration": 215.31587301587302,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773213362/my_tunes_covers/y3mz5mqp8i0cmfkikegb.jpg"
+  },
+  {
+    "id": "12",
+    "title": "Shape of You",
+    "artist": "Ed Sheeran",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773213381/my_tunes_audio/shape_of_you.mp3",
+    "duration": 233.7126530612245,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773213376/my_tunes_covers/tchfuvr6yqjue7usec1i.jpg"
+  }
 ]
