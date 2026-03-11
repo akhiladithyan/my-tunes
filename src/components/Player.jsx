@@ -25,6 +25,50 @@ export default function Player() {
         return () => window.removeEventListener('resize', handleResize);
     }, []);
 
+    // Handle Mobile Native Back Swipes
+    useEffect(() => {
+        const handlePopState = (e) => {
+            if (window.innerWidth >= 1024) return;
+            
+            const state = e.state;
+            if (state?.playerQueue) {
+                setShowQueue(true);
+                setIsExpanded(true);
+            } else if (state?.playerExpanded) {
+                setShowQueue(false);
+                setIsExpanded(true);
+            } else {
+                setShowQueue(false);
+                setIsExpanded(false);
+            }
+        };
+
+        window.addEventListener('popstate', handlePopState);
+        return () => window.removeEventListener('popstate', handlePopState);
+    }, []);
+
+    const handleExpandPlayer = () => {
+        if (window.innerWidth < 1024 && !isExpanded) {
+            setIsExpanded(true);
+            window.history.pushState({ ...window.history.state, playerExpanded: true }, '');
+        }
+    };
+
+    const handleQueueToggle = (e) => {
+        e.stopPropagation();
+        if (showQueue) {
+            window.history.back(); // Triggers popstate to playerExpanded
+        } else {
+            setShowQueue(true);
+            window.history.pushState({ ...window.history.state, playerQueue: true }, '');
+        }
+    };
+
+    const handleCloseExpanded = (e) => {
+        e.stopPropagation();
+        window.history.back(); // Triggers popstate closing either queue or player
+    };
+
     if (!currentTrack) return null;
 
     const formatTime = (time) => {
@@ -40,9 +84,7 @@ export default function Player() {
         <>
             {/* MINI PLAYER (Mobile) & FULL BOTTOM BAR (Desktop) */}
             <div
-                onClick={() => {
-                    if (window.innerWidth < 1024) setIsExpanded(true);
-                }}
+                onClick={handleExpandPlayer}
                 className={`
                     fixed z-50 text-white shadow-2xl transition overflow-hidden
                     
@@ -143,20 +185,13 @@ export default function Player() {
             <div className={`lg:hidden fixed inset-0 z-[100] bg-gradient-to-b from-[#2a2a2a] to-[#121212] flex flex-col transition-transform duration-300 ease-out ${isExpanded ? 'translate-y-0' : 'translate-y-full'}`}>
                 {/* Header */}
                 <div className="flex items-center justify-between px-4 pt-6 pb-2 safe-area-pt">
-                    <button onClick={(e) => { 
-                        e.stopPropagation();
-                        if (showQueue) {
-                            setShowQueue(false);
-                        } else {
-                            setIsExpanded(false); 
-                        }
-                    }} className="p-2 text-white hover:bg-white/10 rounded-full transition">
+                    <button onClick={handleCloseExpanded} className="p-2 text-white hover:bg-white/10 rounded-full transition">
                         {showQueue ? <ChevronLeft size={28} /> : <ChevronDown size={28} />}
                     </button>
                     <span className="text-xs font-bold uppercase tracking-widest text-white/90">
                         {showQueue ? 'Queue' : 'Now Playing'}
                     </span>
-                    <button onClick={(e) => { e.stopPropagation(); setShowQueue(!showQueue); }} className={`p-2 rounded-full transition ${showQueue ? 'text-[#1db954] bg-white/10' : 'text-white hover:bg-white/10'}`}>
+                    <button onClick={handleQueueToggle} className={`p-2 rounded-full transition ${showQueue ? 'text-[#1db954] bg-white/10' : 'text-white hover:bg-white/10'}`}>
                         <ListMusic size={24} />
                     </button>
                 </div>

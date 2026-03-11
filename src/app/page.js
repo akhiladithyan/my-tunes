@@ -28,6 +28,37 @@ export default function Home() {
   }, []);
 
   useEffect(() => {
+    const handlePopState = (e) => {
+      if (!isDesktop) {
+        const state = e.state;
+        if (state?.view === 'playlist') {
+          setView('playlist');
+        } else {
+          setView('home');
+        }
+      }
+    };
+
+    window.addEventListener('popstate', handlePopState);
+    return () => window.removeEventListener('popstate', handlePopState);
+  }, [isDesktop]);
+
+  const handleOpenPlaylist = () => {
+    setView('playlist');
+    if (!isDesktop) {
+      window.history.pushState({ view: 'playlist' }, '');
+    }
+  };
+
+  const handleBackToHome = () => {
+    if (!isDesktop) {
+      window.history.back(); // This triggers popstate
+    } else {
+      setView('home');
+    }
+  };
+
+  useEffect(() => {
     // Apply theme
     if (theme === 'dark') {
       document.documentElement.classList.add('dark');
@@ -59,7 +90,7 @@ export default function Home() {
         {/* Playlists Grid */}
         <div className="px-6 grid grid-cols-2 gap-3 mb-8">
           <div 
-            onClick={() => setView('playlist')}
+            onClick={handleOpenPlaylist}
             className="col-span-2 group bg-neutral-100/80 hover:bg-neutral-200 dark:bg-white/10 dark:hover:bg-white/20 h-20 rounded-md flex items-center overflow-hidden cursor-pointer transition-colors shadow-sm"
           >
             {tracks[0] ? (
@@ -114,7 +145,7 @@ export default function Home() {
   return (
     <main className="min-h-full pt-20 lg:pt-0 pb-32 lg:pb-8 relative overflow-hidden bg-white dark:bg-transparent transition-colors duration-300">
       <div className="absolute top-0 left-0 right-0 h-96 bg-gradient-to-b from-indigo-900/40 via-white dark:via-[#121212] to-transparent pointer-events-none -z-10 transition-colors duration-300" />
-      <TrackList onBack={!isDesktop ? () => setView('home') : undefined} />
+      <TrackList onBack={!isDesktop ? handleBackToHome : undefined} />
     </main>
   );
 }
