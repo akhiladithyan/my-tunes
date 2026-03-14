@@ -1,18 +1,1506 @@
 [
   {
     "id": "1",
-    "title": "Tsunami",
-    "artist": "Escape",
-    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773378160/my_tunes_audio/tusnami.mp3",
-    "duration": 162.7851700680272,
-    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773378136/my_tunes_covers/xupfu7ugbftzhay31iqq.jpg"
+    "title": "Let Me Love You",
+    "artist": "DJ Snake / Justin Bieber",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478017/my_tunes_audio/Let_me_love_you.mp3",
+    "duration": 205.94666666666666,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478014/my_tunes_covers/zcbjhzqwqsaih6xjjjet.jpg"
   },
   {
     "id": "2",
+    "title": "No Money",
+    "artist": "Galantis",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478019/my_tunes_audio/no_money.mp3",
+    "duration": 189.1265306122449,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478018/my_tunes_covers/lwnyxwbnn8du6zmeuas6.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Warriors",
+    "artist": "Imagine Dragons",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478021/my_tunes_audio/warriors.mp3",
+    "duration": 170.06666666666666,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478020/my_tunes_covers/ar9uvgkgfwmfgwe8phon.jpg"
+  },
+  {
+    "id": "4",
+    "title": "Girls Like You",
+    "artist": "Maroon 5 / Cardi B",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478024/my_tunes_audio/girls_like_you.mp3",
+    "duration": 235.5452380952381,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478022/my_tunes_covers/vo0kvycuddgcyiic69zq.jpg"
+  },
+  {
+    "id": "5",
+    "title": "Thunder",
+    "artist": "Imagine Dragons",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478026/my_tunes_audio/thunder.mp3",
+    "duration": 187.14666666666668,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478025/my_tunes_covers/kyxv8dyjyi37r8igc0xv.jpg"
+  },
+  {
+    "id": "6",
+    "title": "Believer",
+    "artist": "Imagine Dragons",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478028/my_tunes_audio/believer.mp3",
+    "duration": 204.34666666666666,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478027/my_tunes_covers/hdnlzy10lhmiceereahy.jpg"
+  },
+  {
+    "id": "7",
+    "title": "Whatever It Takes",
+    "artist": "Imagine Dragons",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478030/my_tunes_audio/whatever_it_takes.mp3",
+    "duration": 201.24,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478029/my_tunes_covers/sfipwiw1rltnw79guoow.jpg"
+  },
+  {
+    "id": "8",
+    "title": "Alone",
+    "artist": "Alan Walker",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478032/my_tunes_audio/alone.mp3",
+    "duration": 161.2,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478031/my_tunes_covers/uygcxpmy3vkaixfawxge.jpg"
+  },
+  {
+    "id": "9",
+    "title": "Faded",
+    "artist": "Alan Walker",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478034/my_tunes_audio/faded.mp3",
+    "duration": 212.62666666666667,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478033/my_tunes_covers/jc16xljvvqlxam8agzze.jpg"
+  },
+  {
+    "id": "10",
+    "title": "Animals",
+    "artist": "Maroon 5",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478036/my_tunes_audio/animals.mp3",
+    "duration": 229.13333333333333,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478035/my_tunes_covers/xdzpfd8wfhhkeuvv0mpg.jpg"
+  },
+  {
+    "id": "11",
+    "title": "Carry On (from the Original Motion Picture \"POK\u00c9MON Detective Pikachu\")",
+    "artist": "Rita Ora / Kygo",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478038/my_tunes_audio/carry_on.mp3",
+    "duration": 215.31587301587302,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478037/my_tunes_covers/my48pgo3vicbyxdvdwa3.jpg"
+  },
+  {
+    "id": "12",
+    "title": "Shape of You",
+    "artist": "Ed Sheeran",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478040/my_tunes_audio/shape_of_you.mp3",
+    "duration": 233.7126530612245,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478039/my_tunes_covers/jojnb6ey9usuemd28xdg.jpg"
+  },
+  {
+    "id": "13",
+    "title": "Play",
+    "artist": "K-391 / Alan Walker / Martin Tungevaag / Mangoo",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478042/my_tunes_audio/play.mp3",
+    "duration": 167.9768934240363,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478041/my_tunes_covers/nme8leaddwjgdoryayar.jpg"
+  },
+  {
+    "id": "14",
+    "title": "All Falls Down (feat. Juliander)",
+    "artist": "Alan Walker / Noah Cyrus / Digital Farm Animals / Juliander",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478044/my_tunes_audio/all_falls_down.mp3",
+    "duration": 199.1111337868481,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478043/my_tunes_covers/ypb2p2ozbtlictn6vhgl.jpg"
+  },
+  {
+    "id": "15",
+    "title": "Lost Control",
+    "artist": "Alan Walker / Sorana",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478046/my_tunes_audio/lost_control.mp3",
+    "duration": 222.32,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478045/my_tunes_covers/dwwyvtwdmc7ns8uijrit.jpg"
+  },
+  {
+    "id": "16",
+    "title": "The Spectre",
+    "artist": "Alan Walker",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478049/my_tunes_audio/the_spectre.mp3",
+    "duration": 193.7879365079365,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478047/my_tunes_covers/dburhdxlb6lm5zfi0huv.jpg"
+  },
+  {
+    "id": "17",
+    "title": "Wolves",
+    "artist": "Selena Gomez / Marshmello",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478051/my_tunes_audio/wolves.mp3",
+    "duration": 197.99335600907028,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478050/my_tunes_covers/efblv62qssppocpxwlwb.jpg"
+  },
+  {
+    "id": "18",
+    "title": "Stay",
+    "artist": "ZEDD / Alessia Cara",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478053/my_tunes_audio/stay.mp3",
+    "duration": 210.09074829931973,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478052/my_tunes_covers/zbsyzjc2gghtkghuqclf.jpg"
+  },
+  {
+    "id": "19",
+    "title": "See You",
+    "artist": "Johnny Orlando",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478054/my_tunes_audio/see_you.mp3",
+    "duration": 175.14539682539683,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478053/my_tunes_covers/hgtgmnfqvoubghyoqn0d.jpg"
+  },
+  {
+    "id": "20",
+    "title": "Roar",
+    "artist": "Katy Perry",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478056/my_tunes_audio/roar.mp3",
+    "duration": 223.5460090702948,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478055/my_tunes_covers/hyjhsymbvgbqkrp1ms08.jpg"
+  },
+  {
+    "id": "21",
+    "title": "Make It Right (feat. Lauv)",
+    "artist": "BTS / Lauv",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478058/my_tunes_audio/make_it_right.mp3",
+    "duration": 226.32102040816326,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478057/my_tunes_covers/ssszsqmr0usgjjry8nmg.jpg"
+  },
+  {
+    "id": "22",
+    "title": "Attention",
+    "artist": "Charlie Puth",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478060/my_tunes_audio/attention.mp3",
+    "duration": 211.47519274376418,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478059/my_tunes_covers/isimlnary1ihs2i5ehxv.jpg"
+  },
+  {
+    "id": "23",
+    "title": "Havana (feat. Young Thug)",
+    "artist": "Camila Cabello / Young Thug",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478063/my_tunes_audio/havana.mp3",
+    "duration": 217.30666666666667,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478062/my_tunes_covers/xae0laojsblxsmpchta3.jpg"
+  },
+  {
+    "id": "24",
+    "title": "Radioactive",
+    "artist": "Imagine Dragons",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478065/my_tunes_audio/radioactive.mp3",
+    "duration": 186.81333333333333,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478064/my_tunes_covers/tydidnnbvyxjap7odkjj.jpg"
+  },
+  {
+    "id": "25",
+    "title": "positions",
+    "artist": "Ariana Grande",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478067/my_tunes_audio/positions.mp3",
+    "duration": 172.3247619047619,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478066/my_tunes_covers/ebnusux1lcz1cp0nevln.jpg"
+  },
+  {
+    "id": "26",
+    "title": "Ice Cream",
+    "artist": "BLACKPINK / Selena Gomez",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478069/my_tunes_audio/ice_cream.mp3",
+    "duration": 175.81324263038547,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478068/my_tunes_covers/ubw6zdg6cqgua1xymizl.jpg"
+  },
+  {
+    "id": "27",
+    "title": "Se\u00f1orita",
+    "artist": "Shawn Mendes / Camila Cabello",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478071/my_tunes_audio/senorita.mp3",
+    "duration": 190.96,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478070/my_tunes_covers/oyit3zywexo8oad7scd4.jpg"
+  },
+  {
+    "id": "28",
+    "title": "Sweet but Psycho",
+    "artist": "Ava Max",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478073/my_tunes_audio/sweet_but_psycho.mp3",
+    "duration": 187.4363492063492,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478072/my_tunes_covers/rrteunynydz8lrde9gaw.jpg"
+  },
+  {
+    "id": "29",
+    "title": "Dance Monkey",
+    "artist": "Tones and I",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478075/my_tunes_audio/dance_monkey.mp3",
+    "duration": 209.438231292517,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478074/my_tunes_covers/hp1roxnjcqcogugcktib.jpg"
+  },
+  {
+    "id": "30",
+    "title": "Lean On (feat. M\u00d8 & DJ Snake)",
+    "artist": "Major Lazer / M\u00d8 / DJ Snake",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478078/my_tunes_audio/lean_on.mp3",
+    "duration": 176.56115646258505,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478077/my_tunes_covers/vgxauxpwv1qu7wxnqtt6.jpg"
+  },
+  {
+    "id": "31",
+    "title": "Live Fast",
+    "artist": "Alan Walker / A$AP Rocky / Kameron",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478080/my_tunes_audio/live_fast.mp3",
+    "duration": 225.0964172335601,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478078/my_tunes_covers/qeixmuogjdyeed209hhh.jpg"
+  },
+  {
+    "id": "32",
+    "title": "So Am I",
+    "artist": "Ava Max",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478082/my_tunes_audio/so_am_i.mp3",
+    "duration": 184.29569160997733,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478081/my_tunes_covers/ne9g7dmjvstlmeno1skd.jpg"
+  },
+  {
+    "id": "33",
+    "title": "7 rings",
+    "artist": "Ariana Grande",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478084/my_tunes_audio/7_rings.mp3",
+    "duration": 178.62666666666667,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478083/my_tunes_covers/gq7p5ulbubbkvsqbyjip.jpg"
+  },
+  {
+    "id": "34",
+    "title": "Not Your Barbie Girl",
+    "artist": "Ava Max",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478086/my_tunes_audio/not_your_barbie_girl.mp3",
+    "duration": 186.5202947845805,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478085/my_tunes_covers/mtqedq5rakczkuxkeocw.jpg"
+  },
+  {
+    "id": "35",
+    "title": "Princesses Don't Cry",
+    "artist": "Carys",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478088/my_tunes_audio/princess_dont_cry.mp3",
+    "duration": 212.10666666666665,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478086/my_tunes_covers/tjnidvqhyxpmzg19tyy9.jpg"
+  },
+  {
+    "id": "36",
+    "title": "Baby, I'm Jealous (feat. Doja Cat)",
+    "artist": "Bebe Rexha / Doja Cat",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478090/my_tunes_audio/baby_i_am_jelous.mp3",
+    "duration": 175.8734693877551,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478089/my_tunes_covers/ocmrtzige6aqn3xnpk3s.jpg"
+  },
+  {
+    "id": "37",
+    "title": "Kings & Queens",
+    "artist": "Ava Max",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478092/my_tunes_audio/kings_and_queens.mp3",
+    "duration": 162.39882086167802,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478091/my_tunes_covers/i3gkrpn6occ2z5wz6k0q.jpg"
+  },
+  {
+    "id": "38",
+    "title": "darkside.mp3",
+    "artist": "Unknown Artist",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478093/my_tunes_audio/darkside.mp3",
+    "duration": 177.78984126984128,
+    "cover_image_url": "/api/placeholder/400/400"
+  },
+  {
+    "id": "39",
+    "title": "Lily",
+    "artist": "Alan Walker / K-391 / Emelie Hollow",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478095/my_tunes_audio/lily.mp3",
+    "duration": 195.84,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478094/my_tunes_covers/qzi4br77elto5bb7chps.jpg"
+  },
+  {
+    "id": "40",
+    "title": "Different World (feat. CORSAK)",
+    "artist": "Alan Walker / K-391 / Sofia Carson / CORSAK",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478097/my_tunes_audio/different_world.mp3",
+    "duration": 202.90163265306123,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478096/my_tunes_covers/cbsmah8fpoj1msbyfixd.jpg"
+  },
+  {
+    "id": "41",
+    "title": "Closer",
+    "artist": "The Chainsmokers / Halsey / Halsey",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478099/my_tunes_audio/closer.mp3",
+    "duration": 244.96,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478098/my_tunes_covers/chbdrkcejcbk1qhzgavp.jpg"
+  },
+  {
+    "id": "42",
+    "title": "End of Time",
+    "artist": "K-391 / Alan Walker / Ahrix",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478101/my_tunes_audio/end_of_time.mp3",
+    "duration": 187.56,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478100/my_tunes_covers/qcg4xkn8zxqgc9xmxjin.jpg"
+  },
+  {
+    "id": "43",
+    "title": "Shake It Off",
+    "artist": "Taylor Swift",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478103/my_tunes_audio/shake_it_off.mp3",
+    "duration": 219.2,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478102/my_tunes_covers/lfsxtxe7ovshq4nheiu4.jpg"
+  },
+  {
+    "id": "44",
+    "title": "Memories",
+    "artist": "Maroon 5",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478106/my_tunes_audio/memories.mp3",
+    "duration": 189.48609977324264,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478104/my_tunes_covers/am3d5xzkwowztu87ew3x.jpg"
+  },
+  {
+    "id": "45",
+    "title": "Go Crazy",
+    "artist": "Chris Brown / Young Thug",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478108/my_tunes_audio/go_crazy.mp3",
+    "duration": 176.96,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478107/my_tunes_covers/ywu6vaow0j1g9rjqv9q2.jpg"
+  },
+  {
+    "id": "46",
+    "title": "Self Control",
+    "artist": "Bebe Rexha",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478111/my_tunes_audio/self_control.mp3",
+    "duration": 174.50666666666666,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478109/my_tunes_covers/kzps315zxup5kgmgoyf2.jpg"
+  },
+  {
+    "id": "47",
+    "title": "Shy",
+    "artist": "Jai Waetford",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478113/my_tunes_audio/shy.mp3",
+    "duration": 187.64,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478112/my_tunes_covers/hwbuuonadjfhqmblnpmb.jpg"
+  },
+  {
+    "id": "48",
+    "title": "Freaking Me Out",
+    "artist": "Ava Max",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478114/my_tunes_audio/freaking_me_out.mp3",
+    "duration": 192.455873015873,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478114/my_tunes_covers/xddpku2nbfuqpur6z9h4.jpg"
+  },
+  {
+    "id": "49",
+    "title": "Space Melody (Edward Artemyev) (feat. Leony)",
+    "artist": "Vize / Alan Walker / Edward Artemyev / Leony",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478116/my_tunes_audio/space_melody.mp3",
+    "duration": 180.1519954648526,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478115/my_tunes_covers/xqonyad5l8xqqhftnelu.jpg"
+  },
+  {
+    "id": "50",
+    "title": "Strongest (Alan Walker Remix)",
+    "artist": "Ina Wroldsen",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478120/my_tunes_audio/strongest.mp3",
+    "duration": 210.28571428571428,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478118/my_tunes_covers/dx3plih5vnvac7bmddji.jpg"
+  },
+  {
+    "id": "51",
+    "title": "On My Way",
+    "artist": "Farruko / Sabrina Carpenter / Alan Walker",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478122/my_tunes_audio/on_my_way.mp3",
+    "duration": 193.79757369614512,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478121/my_tunes_covers/xdrugbhxolxyxogin4oj.jpg"
+  },
+  {
+    "id": "52",
+    "title": "Are You Lonely (feat. IS\u00c1K)",
+    "artist": "Steve Aoki / Alan Walker / Isak",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478124/my_tunes_audio/are_you_lonely.mp3",
+    "duration": 157.33333333333334,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478123/my_tunes_covers/ohakoo8upzecpbldah9t.jpg"
+  },
+  {
+    "id": "53",
+    "title": "Play Date",
+    "artist": "Melanie Martinez",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478126/my_tunes_audio/play_date.mp3",
+    "duration": 179.86705215419502,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478125/my_tunes_covers/p82akljkxheigzxuxap2.jpg"
+  },
+  {
+    "id": "54",
+    "title": "Echo",
+    "artist": "Yves V",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478128/my_tunes_audio/echo.mp3",
+    "duration": 180.56074829931973,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478127/my_tunes_covers/tsh4cl52eah0jzopa415.jpg"
+  },
+  {
+    "id": "55",
+    "title": "Loving Loudly",
+    "artist": "MagSonics / Fakti / Ane Flem",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478130/my_tunes_audio/loving_loudly.mp3",
+    "duration": 154.17469387755102,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478129/my_tunes_covers/pcmgpzyoa3sgodaozcse.jpg"
+  },
+  {
+    "id": "56",
+    "title": "Love How It Hurts (feat. Tina Stachowiak)",
+    "artist": "Axel Johansson / Tina Stachowiak / Tina Stachowiak",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478132/my_tunes_audio/love_how_it_hurts.mp3",
+    "duration": 199.83673469387756,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478131/my_tunes_covers/lba2zn02gln9rlwofhax.jpg"
+  },
+  {
+    "id": "57",
+    "title": "Miracles (feat. Tina Stachowiak)",
+    "artist": "Axel Johansson / Tina Stachowiak / Tina Stachowiak",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478134/my_tunes_audio/miracles.mp3",
+    "duration": 191.52979591836734,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478133/my_tunes_covers/jsflbearrhoyvoz1youo.jpg"
+  },
+  {
+    "id": "58",
+    "title": "Fly Away",
+    "artist": "TheFatRat / Anjulie",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478136/my_tunes_audio/fly_away.mp3",
+    "duration": 194.2677551020408,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478135/my_tunes_covers/gocygzpqczvzteb07ywk.jpg"
+  },
+  {
+    "id": "59",
+    "title": "It Ain't Me",
+    "artist": "Kygo / Selena Gomez",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478139/my_tunes_audio/it_aint_me.mp3",
+    "duration": 220.78079365079364,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478137/my_tunes_covers/ppiwo4tbyisi4ytethyu.jpg"
+  },
+  {
+    "id": "60",
+    "title": "Peaches",
+    "artist": "Justin Bieber / Daniel Caesar / GIV\u0112ON",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478141/my_tunes_audio/peaches.mp3",
+    "duration": 198.08165532879818,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478140/my_tunes_covers/oa7zqw89lbydei7qsu1p.jpg"
+  },
+  {
+    "id": "61",
+    "title": "Nobody To Love (with Loren Gray)",
+    "artist": "Telykast / Loren Gray",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478143/my_tunes_audio/nobody_to_love.mp3",
+    "duration": 146.37297052154196,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478142/my_tunes_covers/qxszyfor47adyjtrwhdo.jpg"
+  },
+  {
+    "id": "62",
+    "title": "Can We Kiss Forever? (feat. Adriana Proenza)",
+    "artist": "Kina / Adriana Proenza",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478145/my_tunes_audio/can_we_kiss_forever.mp3",
+    "duration": 187.93181405895692,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478144/my_tunes_covers/tcsfqisgh0yhdvmzbgrs.jpg"
+  },
+  {
+    "id": "63",
+    "title": "Without Me",
+    "artist": "Halsey",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478147/my_tunes_audio/without_me.mp3",
+    "duration": 201.66068027210883,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478146/my_tunes_covers/mpnwkhqzbfdzj3qtj0sy.jpg"
+  },
+  {
+    "id": "64",
+    "title": "I Don't Care",
+    "artist": "Ed Sheeran / Justin Bieber",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478149/my_tunes_audio/i_don_t_care.mp3",
+    "duration": 219.94666666666666,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478147/my_tunes_covers/aerrkbqfwyio19ey9rgj.jpg"
+  },
+  {
+    "id": "65",
+    "title": "Lil Bit",
+    "artist": "Nelly / Florida Georgia Line",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478151/my_tunes_audio/lil_bit.mp3",
+    "duration": 195.96247165532878,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478150/my_tunes_covers/k4qmiouv5g4kktprylga.jpg"
+  },
+  {
+    "id": "66",
+    "title": "My Head & My Heart",
+    "artist": "Ava Max",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478152/my_tunes_audio/my_head_my_heart.mp3",
+    "duration": 174.76024943310657,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478151/my_tunes_covers/kgaac4detr9czaij7qf2.jpg"
+  },
+  {
+    "id": "67",
+    "title": "Mood (feat. iann dior)",
+    "artist": "24kgoldn / Iann Dior / Iann Dior",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478155/my_tunes_audio/mood.mp3",
+    "duration": 140.53333333333333,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478154/my_tunes_covers/cfgtt27izf2ya9gdralh.jpg"
+  },
+  {
+    "id": "68",
+    "title": "willow",
+    "artist": "Taylor Swift",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478156/my_tunes_audio/willow.mp3",
+    "duration": 214.70666666666668,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478156/my_tunes_covers/h3xvpygypycchbzfxpkc.jpg"
+  },
+  {
+    "id": "69",
+    "title": "Taki Taki",
+    "artist": "DJ Snake / Selena Gomez / Ozuna / Cardi B",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478159/my_tunes_audio/taki_taki.mp3",
+    "duration": 212.5,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478157/my_tunes_covers/uyqe5i3bww6ttdkxstn8.jpg"
+  },
+  {
+    "id": "70",
+    "title": "Aurora",
+    "artist": "K-391 / R\u00d8RY",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478160/my_tunes_audio/aurora.mp3",
+    "duration": 164.16666666666666,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478160/my_tunes_covers/iptiizpfzcxgywmlqyse.jpg"
+  },
+  {
+    "id": "71",
+    "title": "Blocks",
+    "artist": "Marshmello",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478163/my_tunes_audio/blocks.mp3",
+    "duration": 209.57748299319726,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478162/my_tunes_covers/wznbpgdodhjxaogyflbe.jpg"
+  },
+  {
+    "id": "72",
+    "title": "Sorry",
+    "artist": "Alan Walker / Isak",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478165/my_tunes_audio/sorry.mp3",
+    "duration": 165.0,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478164/my_tunes_covers/nlf6qpfvofljvwgz6bi3.jpg"
+  },
+  {
+    "id": "73",
+    "title": "Fake A Smile",
+    "artist": "Alan Walker / salem ilese",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478167/my_tunes_audio/fake_a_smile.mp3",
+    "duration": 168.11832199546484,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478165/my_tunes_covers/exjczznwtyp0uqvyi1mb.jpg"
+  },
+  {
+    "id": "74",
+    "title": "Wahran",
+    "artist": "Randall",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478169/my_tunes_audio/Wahran.mp3",
+    "duration": 231.11412698412698,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478168/my_tunes_covers/u1aoarylehmkxqmtmxrn.jpg"
+  },
+  {
+    "id": "75",
+    "title": "Lose Control",
+    "artist": "Meduza / Becky Hill / GOODBOYS",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478171/my_tunes_audio/lose_control.mp3",
+    "duration": 168.38709750566895,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478170/my_tunes_covers/tus5yrucdhb5zq6ulyvs.jpg"
+  },
+  {
+    "id": "76",
+    "title": "Falling",
+    "artist": "Trevor Daniel",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478174/my_tunes_audio/falling.mp3",
+    "duration": 159.381768707483,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478173/my_tunes_covers/tksbaix21ybubs3nikrt.jpg"
+  },
+  {
+    "id": "77",
+    "title": "Dr\u00fcg",
+    "artist": "Lucky Luke / Emie",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478178/my_tunes_audio/drug.mp3",
+    "duration": 219.26,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478176/my_tunes_covers/wockxnjmjouwazq7bezg.jpg"
+  },
+  {
+    "id": "78",
+    "title": "Savage Love (Laxed - Siren Beat)",
+    "artist": "Jawsh 685 / Jason Derulo",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478180/my_tunes_audio/savage_love.mp3",
+    "duration": 171.37498866213153,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478179/my_tunes_covers/qagib54jxgxaevjw5lqx.jpg"
+  },
+  {
+    "id": "79",
+    "title": "Into Your Arms (feat. Ava Max)",
+    "artist": "Witt Lowry / Ava Max",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478182/my_tunes_audio/into_your_arms.mp3",
+    "duration": 186.02204081632652,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478181/my_tunes_covers/apxzhkgpnakzp2iowsr3.jpg"
+  },
+  {
+    "id": "80",
+    "title": "The Moments I'm Missing",
+    "artist": "Ranji / WHITENO1SE / Nina Nesbitt",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478185/my_tunes_audio/the_moments_i_m_missing.mp3",
+    "duration": 184.3478231292517,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478183/my_tunes_covers/cm9l9ex7t9ytpe2cy9lu.jpg"
+  },
+  {
+    "id": "81",
+    "title": "Run Free",
+    "artist": "Deep Chills / Ivie",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478187/my_tunes_audio/run_free.mp3",
+    "duration": 170.56249433106575,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478186/my_tunes_covers/neoxo1pjgxq2zzwrs0oo.jpg"
+  },
+  {
+    "id": "82",
+    "title": "SugarCrash!",
+    "artist": "ElyOtto",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478189/my_tunes_audio/sugar_crash.mp3",
+    "duration": 80.08054421768708,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478188/my_tunes_covers/nbzuyobinganvhu1zcl2.jpg"
+  },
+  {
+    "id": "83",
+    "title": "Bilionera",
+    "artist": "Otilia",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478191/my_tunes_audio/billionera.mp3",
+    "duration": 185.294126984127,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478190/my_tunes_covers/essuiohdudidryszum3f.jpg"
+  },
+  {
+    "id": "84",
+    "title": "Astronaut In The Ocean",
+    "artist": "Masked Wolf",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478193/my_tunes_audio/astronauts_in_the_ocean.mp3",
+    "duration": 132.78038548752835,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478192/my_tunes_covers/xu7q2ay5poyjcah8pn7q.jpg"
+  },
+  {
+    "id": "85",
+    "title": "Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)",
+    "artist": "David Guetta / Afrojack / Bebe Rexha / Nicki Minaj",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478195/my_tunes_audio/hey_mama.mp3",
+    "duration": 192.56,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478194/my_tunes_covers/av2yvbvbol5wdsfrnlfx.jpg"
+  },
+  {
+    "id": "86",
+    "title": "Goosebumps",
+    "artist": "Travis Scott / HVME",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478198/my_tunes_audio/goosebumps.mp3",
+    "duration": 162.80267573696145,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478196/my_tunes_covers/kwvt2lnsuopxxintd8nc.jpg"
+  },
+  {
+    "id": "87",
+    "title": "bad guy",
+    "artist": "Billie Eilish",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478200/my_tunes_audio/bad_guy.mp3",
+    "duration": 194.08784580498866,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478198/my_tunes_covers/eyf55wje9eb84mflhgzd.jpg"
+  },
+  {
+    "id": "88",
+    "title": "Head & Heart (feat. MNEK)",
+    "artist": "Joel Corry / MNEK",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478202/my_tunes_audio/Head_heart.mp3",
+    "duration": 166.02848072562358,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478201/my_tunes_covers/l1tnd3rz69owkpjdai3i.jpg"
+  },
+  {
+    "id": "89",
+    "title": "Fearless - Lost Sky.mp3",
+    "artist": "Unknown Artist",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478205/my_tunes_audio/Fearless_-_Lost_Sky.mp3",
+    "duration": 194.35102040816327,
+    "cover_image_url": "/api/placeholder/400/400"
+  },
+  {
+    "id": "90",
+    "title": "Tick Tock (feat. 24kGoldn)",
+    "artist": "Clean Bandit / Mabel / 24kgoldn",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478207/my_tunes_audio/tick_tock.mp3",
+    "duration": 178.37378684807257,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478206/my_tunes_covers/ykuhswg0exlb6ak5ruhu.jpg"
+  },
+  {
+    "id": "91",
+    "title": "Maikkis - Kosandra -Remix.mp3",
+    "artist": "Unknown Artist",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478210/my_tunes_audio/Maikkis_-_Kosandra_-Remix.mp3",
+    "duration": 178.625306122449,
+    "cover_image_url": "/api/placeholder/400/400"
+  },
+  {
+    "id": "92",
+    "title": "Love Is Gone",
+    "artist": "Dylan Matthew / Slander",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478212/my_tunes_audio/love_is_gone.mp3",
+    "duration": 177.00571428571428,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478211/my_tunes_covers/iusqpjakgpmj4anstqof.jpg"
+  },
+  {
+    "id": "93",
+    "title": "Take It Off",
+    "artist": "Kesha",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478215/my_tunes_audio/take_it_off.mp3",
+    "duration": 215.2,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478213/my_tunes_covers/acosklny98z6spbltw9m.jpg"
+  },
+  {
+    "id": "94",
+    "title": "Wrap Me In Plastic",
+    "artist": "momoland / CHROMANCE",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478218/my_tunes_audio/warp_me_in_plastic.mp3",
+    "duration": 192.80814058956915,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478216/my_tunes_covers/vhl7meuqgkuvlqungb4y.jpg"
+  },
+  {
+    "id": "95",
+    "title": "Alone, Pt. II",
+    "artist": "Alan Walker / Ava Max",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478220/my_tunes_audio/alone_part_II.mp3",
+    "duration": 179.05263038548753,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478219/my_tunes_covers/jwt1ilsypgaqfbzt58wa.jpg"
+  },
+  {
+    "id": "96",
+    "title": "Bad Liar",
+    "artist": "Imagine Dragons",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478222/my_tunes_audio/bad_liar.mp3",
+    "duration": 260.7733333333333,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478221/my_tunes_covers/jwmf4yp9elevfa9y1fes.jpg"
+  },
+  {
+    "id": "97",
+    "title": "See You Again (feat. Charlie Puth)",
+    "artist": "Wiz Khalifa / Charlie Puth",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478224/my_tunes_audio/see_yoou_again.mp3",
+    "duration": 229.5257596371882,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478223/my_tunes_covers/bxubawzkrwxkilyce18c.jpg"
+  },
+  {
+    "id": "98",
+    "title": "Perfect",
+    "artist": "Ed Sheeran",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478226/my_tunes_audio/perfect.mp3",
+    "duration": 263.4,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478225/my_tunes_covers/nyxdrqg237jzgdibhcwk.jpg"
+  },
+  {
+    "id": "99",
+    "title": "MONTERO (Call Me By Your Name)",
+    "artist": "Lil Nas X",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478229/my_tunes_audio/montero.mp3",
+    "duration": 137.87573696145125,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478228/my_tunes_covers/ufj8upjxytjx7ous2dsv.jpg"
+  },
+  {
+    "id": "100",
+    "title": "Levitating",
+    "artist": "Dua Lipa",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478231/my_tunes_audio/levitating.mp3",
+    "duration": 203.80798185941043,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478230/my_tunes_covers/h675y9xnmeniujjvgglc.jpg"
+  },
+  {
+    "id": "101",
+    "title": "Bad boy",
+    "artist": "Marwa Loud",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478233/my_tunes_audio/bad_boy.mp3",
+    "duration": 187.84414965986394,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478232/my_tunes_covers/mjfe3xkkfloodll6c4fs.jpg"
+  },
+  {
+    "id": "102",
+    "title": "Da Da Da",
+    "artist": "Tanir & Tyomcha",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478235/my_tunes_audio/da_da_da_jerico.mp3",
+    "duration": 214.32995464852607,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478234/my_tunes_covers/u8ptsayqricyfjvw4gxm.jpg"
+  },
+  {
+    "id": "103",
+    "title": "Dynamite",
+    "artist": "BTS",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478237/my_tunes_audio/dynamite_-_bts.mp3",
+    "duration": 199.05374149659863,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478236/my_tunes_covers/j9nzmokuwpeem1ykgjdb.jpg"
+  },
+  {
+    "id": "104",
+    "title": "simpa pa pa.mp3",
+    "artist": "Unknown Artist",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478239/my_tunes_audio/simpa_pa_pa.mp3",
+    "duration": 158.0780045351474,
+    "cover_image_url": "/api/placeholder/400/400"
+  },
+  {
+    "id": "105",
+    "title": "Thrift Shop (feat. Wanz)",
+    "artist": "Macklemore & Ryan Lewis / Macklemore / Ryan Lewis / W\u00e4nz",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478241/my_tunes_audio/thrift_shop.mp3",
+    "duration": 235.61340136054423,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478240/my_tunes_covers/h4l0rqlvjeiuwxycinwb.jpg"
+  },
+  {
+    "id": "106",
+    "title": "Pretty Girl",
+    "artist": "Maggie Lindemann",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478243/my_tunes_audio/pretty_girl.mp3",
+    "duration": 193.61333333333334,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478242/my_tunes_covers/zkvgr6ly72pehglpfgft.jpg"
+  },
+  {
+    "id": "107",
+    "title": "Notice Me",
+    "artist": "Migos / Post Malone",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478245/my_tunes_audio/notice_me.mp3",
+    "duration": 233.88031746031746,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478244/my_tunes_covers/hmxetehsbbppgtlfnmhi.jpg"
+  },
+  {
+    "id": "108",
+    "title": "Stereo Hearts (feat. Adam Levine)",
+    "artist": "Gym Class Heroes / Adam Levine",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478248/my_tunes_audio/stero_hearts.mp3",
+    "duration": 210.96,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478246/my_tunes_covers/z4kl84zvyacjqwjw6ybk.jpg"
+  },
+  {
+    "id": "109",
+    "title": "In the Name of Love",
+    "artist": "Martin Garrix / Bebe Rexha",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478249/my_tunes_audio/in_the_name_of_love.mp3",
+    "duration": 195.70673469387756,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478248/my_tunes_covers/wag135rogpdep0nwykzu.jpg"
+  },
+  {
+    "id": "110",
+    "title": "why do i.mp3",
+    "artist": "Unknown Artist",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478250/my_tunes_audio/why_do_i.mp3",
+    "duration": 223.84326530612245,
+    "cover_image_url": "/api/placeholder/400/400"
+  },
+  {
+    "id": "111",
+    "title": "Shower",
+    "artist": "Becky G",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478252/my_tunes_audio/shower.mp3",
+    "duration": 206.16668934240363,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478251/my_tunes_covers/zyekhrilm35kyuug7jlg.jpg"
+  },
+  {
+    "id": "112",
+    "title": "Arcade",
+    "artist": "Duncan Laurence / FLETCHER",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478254/my_tunes_audio/arcade.mp3",
+    "duration": 187.45333333333335,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478253/my_tunes_covers/gvucfbu7qwdnsudtqisx.jpg"
+  },
+  {
+    "id": "113",
+    "title": "You're Perfect",
+    "artist": "Charly Black",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478256/my_tunes_audio/you_re_perfect.mp3",
+    "duration": 197.01551020408164,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478255/my_tunes_covers/uytssrfteu0usgtrfup5.jpg"
+  },
+  {
+    "id": "114",
+    "title": "Balenciaga",
+    "artist": "Paulz",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478258/my_tunes_audio/balenciaga.mp3",
+    "duration": 180.56818594104308,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478257/my_tunes_covers/v8tcgzl7yifkiad1sds0.jpg"
+  },
+  {
+    "id": "115",
+    "title": "sweet dreams.mp3",
+    "artist": "Unknown Artist",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478259/my_tunes_audio/sweet_dreams.mp3",
+    "duration": 138.81938775510204,
+    "cover_image_url": "/api/placeholder/400/400"
+  },
+  {
+    "id": "116",
+    "title": "good 4 u",
+    "artist": "Olivia Rodrigo",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478260/my_tunes_audio/good_4_u.mp3",
+    "duration": 178.14666666666668,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478259/my_tunes_covers/vqrj6byxifm4dxom8lh8.jpg"
+  },
+  {
+    "id": "117",
+    "title": "Rise Up",
+    "artist": "TheFatRat",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478263/my_tunes_audio/rise_up.mp3",
+    "duration": 169.75609977324262,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478262/my_tunes_covers/ysgmzrjitdsezp2gdhjj.jpg"
+  },
+  {
+    "id": "118",
+    "title": "Dinero",
+    "artist": "Trinidad Cardona",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478264/my_tunes_audio/dinero.mp3",
+    "duration": 160.9142857142857,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478263/my_tunes_covers/wup4jvmeirj8dygmmktl.jpg"
+  },
+  {
+    "id": "119",
+    "title": "Copines",
+    "artist": "Aya Nakamura",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478266/my_tunes_audio/copines.mp3",
+    "duration": 171.72,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478265/my_tunes_covers/zwu2ckysiwkkbwjihecl.jpg"
+  },
+  {
+    "id": "120",
+    "title": "At My Worst",
+    "artist": "Pink Sweat$",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478268/my_tunes_audio/at_my_worst.mp3",
+    "duration": 170.34471655328798,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478268/my_tunes_covers/koq9zzmwqorbokc80bww.jpg"
+  },
+  {
+    "id": "121",
+    "title": "Cheap Thrills (feat. Sean Paul)",
+    "artist": "Sia / Sean Paul",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478270/my_tunes_audio/cheap_thrills.mp3",
+    "duration": 224.8133560090703,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478269/my_tunes_covers/es8qx9kjbrdvffmziih6.jpg"
+  },
+  {
+    "id": "122",
+    "title": "Let Me Down Slowly",
+    "artist": "Alec Benjamin",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478272/my_tunes_audio/let_me_down_slowley.mp3",
+    "duration": 169.18061224489796,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478271/my_tunes_covers/y5ozipgxkfpbfoo5iljw.jpg"
+  },
+  {
+    "id": "123",
+    "title": "The Nights",
+    "artist": "Avicii",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478273/my_tunes_audio/the_nights.mp3",
+    "duration": 176.65845804988663,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478273/my_tunes_covers/ve3qbdseezo4ggqhqvu8.jpg"
+  },
+  {
+    "id": "124",
+    "title": "Wonderland, Wonderland",
+    "artist": "Axel Johansson, Dom Liu, Sean McDonagh, Simon Gain, Daniel Calvin, R\u00d8RY, Axel Johansson, Dom Liu, Sean McDonagh, Simon Gain, Daniel Calvin, R\u00d8RY",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478278/my_tunes_audio/wonderland.mp3",
+    "duration": 216.024,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478275/my_tunes_covers/cppuabhe3symp9uj5ryn.png"
+  },
+  {
+    "id": "125",
+    "title": "Dusk Till Dawn (feat. Sia)",
+    "artist": "ZAYN / Sia / Sia",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478280/my_tunes_audio/dusk_till_dawn.mp3",
+    "duration": 239.0,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478279/my_tunes_covers/qm9ouvn0tk9pcfbyqhcs.jpg"
+  },
+  {
+    "id": "126",
+    "title": "Talking to the Moon",
+    "artist": "Bruno Mars",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478283/my_tunes_audio/talking_to_the_moon.mp3",
+    "duration": 217.86666666666667,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478282/my_tunes_covers/tji9gskwpaxd4mhqnmda.jpg"
+  },
+  {
+    "id": "127",
+    "title": "All We Are",
+    "artist": "Richello",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478284/my_tunes_audio/all_we_are.mp3",
+    "duration": 120.99918367346939,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478284/my_tunes_covers/hscas0dxmwwugotmuhne.jpg"
+  },
+  {
+    "id": "128",
+    "title": "Scars To Your Beautiful",
+    "artist": "Alessia Cara",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478286/my_tunes_audio/scars_to_your_beautiful.mp3",
+    "duration": 230.22666666666666,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478285/my_tunes_covers/fyp7udotduxbwusqon1b.jpg"
+  },
+  {
+    "id": "129",
+    "title": "We Were Happy (Taylor\u2019s Version) (From The Vault)",
+    "artist": "Taylor Swift",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478288/my_tunes_audio/we_were_happy.mp3",
+    "duration": 244.23673469387754,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478287/my_tunes_covers/ppixytuklbdnmhdy6zwg.jpg"
+  },
+  {
+    "id": "130",
+    "title": "Don't Go Yet",
+    "artist": "Camila Cabello",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478292/my_tunes_audio/dont_go_yet.mp3",
+    "duration": 164.84222222222223,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478289/my_tunes_covers/c2wanxv9ywttqtyhy1gt.jpg"
+  },
+  {
+    "id": "131",
+    "title": "Talk",
+    "artist": "Salvatore Ganacci",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478294/my_tunes_audio/talk.mp3",
+    "duration": 164.8,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478293/my_tunes_covers/avw1s6kgfmoukhgkeroe.jpg"
+  },
+  {
+    "id": "132",
+    "title": "Fake",
+    "artist": "The Tech Thieves",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478296/my_tunes_audio/fake.mp3",
+    "duration": 141.176485260771,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478295/my_tunes_covers/tkdnytsoalokalgyzpqb.jpg"
+  },
+  {
+    "id": "133",
+    "title": "My Ordinary Life",
+    "artist": "The Living Tombstone",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478297/my_tunes_audio/my_ordinary_life.mp3",
+    "duration": 230.89333333333335,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478296/my_tunes_covers/niqzodrljgocetgjt3cv.jpg"
+  },
+  {
+    "id": "134",
+    "title": "angetenar.mp3",
+    "artist": "Unknown Artist",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478299/my_tunes_audio/angetenar.mp3",
+    "duration": 190.90909297052156,
+    "cover_image_url": "/api/placeholder/400/400"
+  },
+  {
+    "id": "135",
+    "title": "S'Hab Music",
+    "artist": "N'gaous / Randall",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478301/my_tunes_audio/S_ab_music.mp3",
+    "duration": 148.7412244897959,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478300/my_tunes_covers/n8ugajoqqwe892lioavl.jpg"
+  },
+  {
+    "id": "136",
+    "title": "Hotel Room Service",
+    "artist": "Pitbull",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478303/my_tunes_audio/hotel_room_service.mp3",
+    "duration": 238.50666666666666,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478302/my_tunes_covers/iyzwrpocubtjzdun32t4.jpg"
+  },
+  {
+    "id": "137",
+    "title": "SUICIDE YEAR",
+    "artist": "WEEDMANE / Suicideyear",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478304/my_tunes_audio/suicide_year.mp3",
+    "duration": 91.82040816326531,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478304/my_tunes_covers/yop5j0xfw7fspe1wk3sg.jpg"
+  },
+  {
+    "id": "138",
+    "title": "Solo (feat. Demi Lovato)",
+    "artist": "Clean Bandit / Demi Lovato",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478306/my_tunes_audio/solo.mp3",
+    "duration": 222.65333333333334,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478305/my_tunes_covers/xhitdoeybxw0rkiibtcg.jpg"
+  },
+  {
+    "id": "139",
+    "title": "Watch Sum Anime (Bella Poarch Remix)",
+    "artist": "Jafiki",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478308/my_tunes_audio/watch_sum_anime.mp3",
+    "duration": 65.99514739229025,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478307/my_tunes_covers/fjm0wbedpgd3gd3wtnrz.jpg"
+  },
+  {
+    "id": "140",
+    "title": "STAY",
+    "artist": "The Kid Laroi / Justin Bieber",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478310/my_tunes_audio/STAY_justin.mp3",
+    "duration": 141.8057596371882,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478309/my_tunes_covers/ehnhpspnxbszfs101uss.jpg"
+  },
+  {
+    "id": "141",
+    "title": "Often (Kygo Remix), Often (Kygo Remix)",
+    "artist": "The Weeknd, The Weeknd",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478312/my_tunes_audio/often_-_kygo_remix.mp3",
+    "duration": 234.432,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478311/my_tunes_covers/tqqsexjq7l8vrtfjauux.png"
+  },
+  {
+    "id": "142",
+    "title": "New Thang",
+    "artist": "Redfoo",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478314/my_tunes_audio/new_thang.mp3",
+    "duration": 226.8,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478313/my_tunes_covers/jdv1xqajmoigkvxdnxp0.jpg"
+  },
+  {
+    "id": "143",
+    "title": "One Dance",
+    "artist": "Drake / Wizkid / Kyla",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478317/my_tunes_audio/one_dance.mp3",
+    "duration": 173.98666666666668,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478315/my_tunes_covers/gokhd0ikpy1zp0irgfsu.jpg"
+  },
+  {
+    "id": "144",
+    "title": "Need to Know",
+    "artist": "Doja Cat",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478319/my_tunes_audio/need_to_know.mp3",
+    "duration": 210.56,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478318/my_tunes_covers/lumo5ggrlhtgtbobzesg.jpg"
+  },
+  {
+    "id": "145",
+    "title": "Paris",
+    "artist": "Willy William / Cris Cab",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478321/my_tunes_audio/paris_willy_williams.mp3",
+    "duration": 195.38666666666666,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478320/my_tunes_covers/ivkdkocjntgis8ih66ko.jpg"
+  },
+  {
+    "id": "146",
+    "title": "Life Goes On",
+    "artist": "BTS",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478323/my_tunes_audio/life_goes_on.mp3",
+    "duration": 207.4814739229025,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478321/my_tunes_covers/qkm56tokk4qlkt3qkpnw.jpg"
+  },
+  {
+    "id": "147",
+    "title": "Say My Name",
+    "artist": "David Guetta / Bebe Rexha / J Balvin",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478325/my_tunes_audio/say_my_name.mp3",
+    "duration": 198.97469387755103,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478324/my_tunes_covers/xg85nc4inont4zum2ajh.jpg"
+  },
+  {
+    "id": "148",
+    "title": "Loco",
+    "artist": "SWACQ / Willy William",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478327/my_tunes_audio/loco.mp3",
+    "duration": 146.28571428571428,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478325/my_tunes_covers/gkgbpye3rfxztlfzrwcf.jpg"
+  },
+  {
+    "id": "149",
+    "title": "fairytale.mp3",
+    "artist": "Unknown Artist",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478328/my_tunes_audio/fairytale.mp3",
+    "duration": 182.6,
+    "cover_image_url": "/api/placeholder/400/400"
+  },
+  {
+    "id": "150",
+    "title": "The Magic Bomb (Questions I Get Asked)",
+    "artist": "Ho\u00e0ng Read",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478330/my_tunes_audio/the_magic_bomb.mp3",
+    "duration": 331.26761904761906,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478329/my_tunes_covers/exnvd9zluuotruem2aoo.jpg"
+  },
+  {
+    "id": "151",
+    "title": "Ella Quiere Hmm Haa Hmm",
+    "artist": "Mishelle Master Boys / Leka el Poeta",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478332/my_tunes_audio/ella_quiere_hmm.mp3",
+    "duration": 205.48054421768708,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478331/my_tunes_covers/hgb40tzlrw36s3hgn8bn.jpg"
+  },
+  {
+    "id": "152",
+    "title": "Woman",
+    "artist": "Doja Cat",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478334/my_tunes_audio/women.mp3",
+    "duration": 172.62666666666667,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478333/my_tunes_covers/otsmoxkn1hbljgwsd4kn.jpg"
+  },
+  {
+    "id": "153",
+    "title": "What If (I Told You I Like You)",
+    "artist": "Johnny Orlando / Kenzie",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478336/my_tunes_audio/what_if.mp3",
+    "duration": 219.18666666666667,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478335/my_tunes_covers/l0pa0ksfyzl6li9ddph7.jpg"
+  },
+  {
+    "id": "154",
+    "title": "INDUSTRY BABY",
+    "artist": "Lil Nas X / Jack Harlow",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478338/my_tunes_audio/INDUSTRY_BABY.mp3",
+    "duration": 212.0,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478337/my_tunes_covers/lm8g9xwc4wdlie3k7xzv.jpg"
+  },
+  {
+    "id": "155",
+    "title": "Someone You Loved",
+    "artist": "Lewis Capaldi",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478340/my_tunes_audio/someone_you_loved.mp3",
+    "duration": 182.16054421768706,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478339/my_tunes_covers/f6s6xgz4oyemniniv7bs.jpg"
+  },
+  {
+    "id": "156",
+    "title": "Mr. Saxobeat",
+    "artist": "Alexandra Stan",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478342/my_tunes_audio/mr_saxobeat.mp3",
+    "duration": 195.10530612244898,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478341/my_tunes_covers/ibh4edloonn8dfq2wmpk.jpg"
+  },
+  {
+    "id": "157",
+    "title": "Hymn for the Weekend",
+    "artist": "Coldplay",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478344/my_tunes_audio/hymn_for_the_weekend.mp3",
+    "duration": 258.2987755102041,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478343/my_tunes_covers/vnvk2owbidiaic1drxmh.jpg"
+  },
+  {
+    "id": "158",
+    "title": "Take Me To Church",
+    "artist": "Hozier",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478346/my_tunes_audio/take_me_to_church.mp3",
+    "duration": 241.68848072562358,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478345/my_tunes_covers/vh4rokqa7bjh1bzp39di.jpg"
+  },
+  {
+    "id": "159",
+    "title": "Can't Hold Us (feat. Ray Dalton)",
+    "artist": "Macklemore / Ryan Lewis / Macklemore & Ryan Lewis / Ray Dalton",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478348/my_tunes_audio/can_t_hold_us.mp3",
+    "duration": 258.4318140589569,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478347/my_tunes_covers/indygny7dko8v2ydklks.jpg"
+  },
+  {
+    "id": "160",
+    "title": "Paradise",
+    "artist": "Coldplay",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478350/my_tunes_audio/paradise.mp3",
+    "duration": 278.7191156462585,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478349/my_tunes_covers/gbjvwuvcxgxvhpeojl1y.jpg"
+  },
+  {
+    "id": "161",
+    "title": "Somebody That I Used To Know",
+    "artist": "Gotye / Kimbra",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478352/my_tunes_audio/somebody_that_you_used_to_know.mp3",
+    "duration": 244.88460317460317,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478351/my_tunes_covers/n7x7qc7qhklbwzsvw4l1.jpg"
+  },
+  {
+    "id": "162",
+    "title": "Pumped Up Kicks",
+    "artist": "Foster the People",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478354/my_tunes_audio/pumped_up_kids.mp3",
+    "duration": 239.6,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478353/my_tunes_covers/xec1dwu1i1rbh3439eli.jpg"
+  },
+  {
+    "id": "163",
+    "title": "\u041a\u043e\u043f\u0438\u044f \u043f\u0438\u0440\u0430\u0442\u0441\u043a\u0430\u044f",
+    "artist": "Mekhman",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478357/my_tunes_audio/konr_nnpatck.mp3",
+    "duration": 175.3730612244898,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478355/my_tunes_covers/kyxgtqtfkmheqa3dxipb.jpg"
+  },
+  {
+    "id": "164",
+    "title": "Surrender",
+    "artist": "Natalie Taylor",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478359/my_tunes_audio/surrender.mp3",
+    "duration": 183.10344671201815,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478358/my_tunes_covers/uixihhdzgb8jwebdpgri.jpg"
+  },
+  {
+    "id": "165",
+    "title": "I'm Just a Kid",
+    "artist": "Simple Plan",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478361/my_tunes_audio/i_m_just_a_kid.mp3",
+    "duration": 198.33333333333334,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478360/my_tunes_covers/yyasqrtdcof8hhpvoepm.jpg"
+  },
+  {
+    "id": "166",
+    "title": "Low (feat. T-Pain)",
+    "artist": "Flo Rida / T-Pain",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478363/my_tunes_audio/low_flo_rida.mp3",
+    "duration": 231.4,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478362/my_tunes_covers/c9hr0uzqoffslulf2wyk.jpg"
+  },
+  {
+    "id": "167",
+    "title": "Slumber Party (feat. Princess Nokia)",
+    "artist": "Ashnikko / Princess Nokia",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478365/my_tunes_audio/slumber_party.mp3",
+    "duration": 178.40482993197278,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478364/my_tunes_covers/vti4zq0fcvzgganxhgyo.jpg"
+  },
+  {
+    "id": "168",
+    "title": "Beethoven",
+    "artist": "Kenndog",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478367/my_tunes_audio/beethoven.mp3",
+    "duration": 144.58775510204083,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478366/my_tunes_covers/bigbd0e0qacyohgf65ay.jpg"
+  },
+  {
+    "id": "169",
+    "title": "Touch It",
+    "artist": "KiDi",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478368/my_tunes_audio/touch_it.mp3",
+    "duration": 165.00002267573697,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478368/my_tunes_covers/x2afamcnuqf1qapz9tto.jpg"
+  },
+  {
+    "id": "170",
+    "title": "overwhelmed",
+    "artist": "Royal & the Serpent",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478370/my_tunes_audio/overwhelmed.mp3",
+    "duration": 159.29321995464852,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478369/my_tunes_covers/t4aqmvzchqiv8zccgank.jpg"
+  },
+  {
+    "id": "171",
+    "title": "Get Ur Freak On",
+    "artist": "Missy Elliott",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478372/my_tunes_audio/get_ur_freak_on.mp3",
+    "duration": 211.12,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478371/my_tunes_covers/t1credi18hrcam6pbu68.jpg"
+  },
+  {
+    "id": "172",
+    "title": "Bills, Bills, Bills",
+    "artist": "Destiny's Child",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478375/my_tunes_audio/bills_bills_bills.mp3",
+    "duration": 256.02666666666664,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478373/my_tunes_covers/xtt3wva35wqdurmlriss.jpg"
+  },
+  {
+    "id": "173",
+    "title": "Paris",
+    "artist": "Else",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478376/my_tunes_audio/paris_else.mp3",
+    "duration": 209.70875283446713,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478375/my_tunes_covers/yjshdgfi29duoxuqmxex.jpg"
+  },
+  {
+    "id": "174",
+    "title": "Clear",
+    "artist": "Pusher / Mothica",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478378/my_tunes_audio/clear_-_shwan.mp3",
+    "duration": 175.26578231292518,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478377/my_tunes_covers/ym7tv67wozf1tqt1p3qb.jpg"
+  },
+  {
+    "id": "175",
+    "title": "Watermelon Sugar",
+    "artist": "Harry Styles",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478380/my_tunes_audio/watermelon_sugar.mp3",
+    "duration": 174.0,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478379/my_tunes_covers/ivbmei828i5zjnc0aluv.jpg"
+  },
+  {
+    "id": "176",
+    "title": "Tokyo Drift (Fast & Furious)",
+    "artist": "Teriyaki Boyz",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478382/my_tunes_audio/tokyo_drift.mp3",
+    "duration": 252.58666666666667,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478381/my_tunes_covers/kaybewaamr5cmfw0tchc.jpg"
+  },
+  {
+    "id": "177",
+    "title": "Rap God",
+    "artist": "Eminem",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478384/my_tunes_audio/Rap_god.mp3",
+    "duration": 363.5722448979592,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478383/my_tunes_covers/yw4ggq39boeoe1strx8r.jpg"
+  },
+  {
+    "id": "178",
+    "title": "I Like Me Better",
+    "artist": "Lauv",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478386/my_tunes_audio/i_like_me_better.mp3",
+    "duration": 197.4857142857143,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478385/my_tunes_covers/ynflcxlgrgxsbydrorys.jpg"
+  },
+  {
+    "id": "179",
+    "title": "Breaking Me",
+    "artist": "Topic / A7S",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478388/my_tunes_audio/breaking_me.mp3",
+    "duration": 166.79390022675736,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478387/my_tunes_covers/a6kk2q1ooo8m9mcakwbv.jpg"
+  },
+  {
+    "id": "180",
+    "title": "Mi Gente.mp3",
+    "artist": "Unknown Artist",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478389/my_tunes_audio/Mi_Gente.mp3",
+    "duration": 189.02936507936508,
+    "cover_image_url": "/api/placeholder/400/400"
+  },
+  {
+    "id": "181",
+    "title": "seaside_demo.mp3",
+    "artist": "Unknown Artist",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478390/my_tunes_audio/seaside_demo.mp3",
+    "duration": 132.0,
+    "cover_image_url": "/api/placeholder/400/400"
+  },
+  {
+    "id": "182",
+    "title": "Gang Up",
+    "artist": "Young Thug / 2 Chainz / Wiz Khalifa / PnB Rock",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478393/my_tunes_audio/Gang_up.mp3",
+    "duration": 231.65333333333334,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478391/my_tunes_covers/mu7sdhmjnurhhxwn565g.jpg"
+  },
+  {
+    "id": "183",
+    "title": "Who Says",
+    "artist": "Selena Gomez & The Scene",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478395/my_tunes_audio/Who_says.mp3",
+    "duration": 195.26666666666668,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478394/my_tunes_covers/awleky2ie5apbirxidax.jpg"
+  },
+  {
+    "id": "184",
+    "title": "My Heart Goes (La Di Da)",
+    "artist": "Becky Hill / Topic",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478397/my_tunes_audio/My_heart_Goes.mp3",
+    "duration": 148.96,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478396/my_tunes_covers/mb2ritpxutyqmm5vxc2z.jpg"
+  },
+  {
+    "id": "185",
+    "title": "No Lie",
+    "artist": "Sean Paul / Dua Lipa",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478399/my_tunes_audio/no_lie.mp3",
+    "duration": 221.17646258503402,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478398/my_tunes_covers/kqkigcztri8ceulkjfue.jpg"
+  },
+  {
+    "id": "186",
+    "title": "Boss Bitch",
+    "artist": "Doja Cat",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478400/my_tunes_audio/boss_bitch.mp3",
+    "duration": 134.23961451247166,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478400/my_tunes_covers/mgptg9kpvkxjsj9rykbs.jpg"
+  },
+  {
+    "id": "187",
+    "title": "Tsunami",
+    "artist": "Escape",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478402/my_tunes_audio/tusnami.mp3",
+    "duration": 162.7851700680272,
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478401/my_tunes_covers/hsimkzc240owdmmhrzxc.jpg"
+  },
+  {
+    "id": "188",
     "title": "SAD GIRLZ LUV MONEY",
     "artist": "amaarae / Moliy",
-    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773378185/my_tunes_audio/sad_girlz_luv_money_remix.mp3",
+    "url": "https://res.cloudinary.com/dyjtv0gg9/video/upload/v1773478404/my_tunes_audio/sad_girlz_luv_money_remix.mp3",
     "duration": 196.4206349206349,
-    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773378164/my_tunes_covers/lpnyhdlibqoxav2yzgtn.jpg"
+    "cover_image_url": "https://res.cloudinary.com/dyjtv0gg9/image/upload/v1773478403/my_tunes_covers/d4cfdyzpn2ghnpfkllrs.jpg"
   }
 ]
